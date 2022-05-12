@@ -2,7 +2,7 @@
 
 1.Instalación y configuración
 Es necesario contar con java, al correr el programa se necesita de un usuario y contraseña
-  -Usuario: admin
+   -Usuario: admin
   -Contraseña: admin
 
 2. Uso del programa
